@@ -7,7 +7,7 @@ Python3
 - Control Flow
 - Lists
 - Loops (actually working on...)
-- **Functions
+- **Functions**
 - Code Challenges
 - Strings
 - Modules
