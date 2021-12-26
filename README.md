@@ -7,11 +7,11 @@ Python3
 - Control Flow
 - Lists
 - Loops (actually working on...)
-- Functions
-- Code Challenges
-- Strings
-- Modules
-- Dictionaries
-- Files
-- Classes
-- Code Challenges II
+- * *Functions
+- * *Code Challenges
+- * *Strings
+- * *Modules
+- * *Dictionaries
+- * *Files
+- * *Classes
+- * *Code Challenges II
