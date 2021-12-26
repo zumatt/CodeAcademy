@@ -6,7 +6,7 @@ Python3
 - Hello World
 - Control Flow
 - Lists
-- Loops (actually working on...)
+- **Loops (actually working on...)**
 - *Functions*
 - *Code Challenges*
 - *Strings*
