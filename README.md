@@ -6,8 +6,8 @@
 - Hello World
 - Control Flow
 - Lists
-- **Loops (actually working on...)**
-- *Functions*
+- Loops
+- **Functions (actually working on...)**
 - *Code Challenges*
 - *Strings*
 - *Modules*
