@@ -7,9 +7,9 @@
 - Control Flow
 - Lists
 - Loops
-- **Functions (actually working on...)**
-- *Code Challenges*
-- *Strings*
+- Functions
+- Code Challenges
+- **Strings (actually working on...)**
 - *Modules*
 - *Dictionaries*
 - *Files*
